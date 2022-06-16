@@ -10,3 +10,8 @@ Author:
     3b. git add *
     3c. git commmit -m "description"
     3d. git push origin main
+
+User:
+1. clone the project
+2. install dependencies : npm install, then use it
+3. push it to github if you change the source file   
